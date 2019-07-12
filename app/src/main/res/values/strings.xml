@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FIreBasePushNotification</string>
+    <string name="defualt_channel_id">fcm_channel</string>
+</resources>
